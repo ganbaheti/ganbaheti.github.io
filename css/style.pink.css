@@ -110,12 +110,14 @@ nav.navbar {
   padding-bottom: 0;
   background: #fff;
   border-bottom: 1px solid #e6e6e6;
+  position: relative;
 }
 
 @media (max-width: 991.98px) {
   nav.navbar {
     padding-top: 15px;
     padding-bottom: 15px;
+    position: relative;
   }
 }
 
