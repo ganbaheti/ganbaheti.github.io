@@ -1,3 +1,3 @@
 # ganbaheti.github.io
 My Personal Portfolio 
-www.gaganbaheti.me
+https://ganbaheti.github.io/
